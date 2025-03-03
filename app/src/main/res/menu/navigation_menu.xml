@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/adminHomeFragment"
+        android:icon="@drawable/dashboard"
+        android:title="@string/menu_home" />
+
+    <item
+        android:id="@+id/adminViewMentorFragment"
+        android:icon="@drawable/viewmentor"
+        android:title="@string/menu_slideshow_1" />
+
+    <item
+        android:id="@+id/adminViewMenteeFragment"
+        android:icon="@drawable/viewmentee"
+        android:title="@string/menu_slideshow_2" />
+
+    <item
+        android:id="@+id/subscriptionPlantFragment"
+        android:icon="@drawable/subscription"
+        android:title="@string/menu_slideshow_3" />
+
+    <item
+        android:id="@+id/menteeSettingFragment"
+        android:icon="@drawable/settings"
+        android:title="@string/menu_setting" />
+
+    <item
+        android:id="@+id/termsAndCondition"
+        android:icon="@drawable/guarantee"
+        android:title="@string/terms_and_condition" />
+
+</menu>
